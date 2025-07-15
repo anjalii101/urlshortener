@@ -75,7 +75,7 @@ Edit
 
 +------------------------+
 |      User Visits       |
-|    index.html (UI)     |
+|    index.html (UI)     
 +------------------------+
              |
              v
